@@ -1,4 +1,4 @@
-Sure! Here's the documentation for the provided code and the libraries used:
+![image](https://github.com/user-attachments/assets/6331584f-8c41-4cf9-8ff5-766777b13ce0)
 
 ---
 
@@ -56,10 +56,6 @@ Represents the CPU-controlled paddle.
 - Closes the game window upon exit.
 
 ### Example Usage
-To compile and run this code, you need to have the **raylib** library installed. You can compile the code using a C++ compiler with the following command:
-```sh
-g++ -o pong_game pong_game.cpp -lraylib -lGL -lm -lpthread -ldl -lrt -lX11
-./pong_game
-```
+To compile and run this code, you need to have the **raylib** library installed. Press F5 in vs code to run
 
 ---
